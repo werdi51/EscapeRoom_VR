@@ -1,0 +1,21 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Папка сборки — не пушить!
+EscapeRoom_Data/
+EscapeRoom_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# PDB файлы
+*.pdb
+
+# Asset meta files (опционально)
+*.csproj
+*.sln
+*.suo
+*.user
